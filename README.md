@@ -2168,5 +2168,5 @@ do
 	end
 end
 
-print("dino was here :\)")
+print("FluffXploit Hub | Fluff#8618)")
 return library
